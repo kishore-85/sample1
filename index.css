@@ -1,0 +1,92 @@
+body{
+    margin:0px;
+}
+header{
+    background-color: aliceblue;
+    padding:0px 12px;
+    margin: 0px 0px;
+}
+.top{
+    padding: 0px 20px;
+    margin-left: 20%;
+    margin-top: -40px;
+    position:absolute;
+}
+nav{
+    margin: -5px;
+}
+a:link{
+    text-decoration: none;
+    margin: 0px 15px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+#logo{
+    position: static;
+}
+#srch_bar{
+    margin-left: 30px;
+    color: blue;
+    padding: 5px;
+}
+article{
+    width: 850px;
+    margin: 0px 15%;
+}
+.total-container{
+    margin: 10px 10px;
+    padding: 10px 10px;
+    background-color:rgb(168, 177, 157);
+    margin-left: 14%;
+    width:fit-content;
+}
+.container-1{
+    padding: 8px 3px;
+    display: flex;
+    
+}
+.container-2{
+    padding: 8px 3px;
+    display: flex;
+   
+}
+.container-3{
+    padding: 8px 3px;
+    display: flex;
+   
+}
+.container-4{
+    padding: 8px 3px;
+    display: flex;
+    
+}
+
+.container-5{
+    padding: 8px 3px;
+    display: flex;
+   
+}
+img{
+    margin-left: 7px;
+}
+footer{
+    margin-top: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    bottom:0px;
+    background-color:darkslategray;
+    padding: 3px 8px;
+    text-align: center;
+    font-family:serif;
+    padding: 20px;
+    margin-top: 12px;
+}
+#d1{
+    text-align: center;
+    font-family: cursive;
+}
+.kish{
+    padding: 7px;
+    font-family: cursive;
+    margin: 5px 50px;
+}
